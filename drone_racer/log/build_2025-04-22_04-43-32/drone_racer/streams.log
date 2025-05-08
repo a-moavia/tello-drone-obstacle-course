@@ -1,0 +1,36 @@
+[0.648s] Invoking command in '/home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer': PYTHONPATH=/home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/drone_racer build --build-base /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/build install --record /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/install.log --single-version-externally-managed install_data
+[0.865s] running egg_info
+[0.865s] creating build/drone_racer/drone_racer.egg-info
+[0.866s] writing build/drone_racer/drone_racer.egg-info/PKG-INFO
+[0.866s] writing dependency_links to build/drone_racer/drone_racer.egg-info/dependency_links.txt
+[0.866s] writing entry points to build/drone_racer/drone_racer.egg-info/entry_points.txt
+[0.866s] writing requirements to build/drone_racer/drone_racer.egg-info/requires.txt
+[0.866s] writing top-level names to build/drone_racer/drone_racer.egg-info/top_level.txt
+[0.875s] writing manifest file 'build/drone_racer/drone_racer.egg-info/SOURCES.txt'
+[0.908s] reading manifest file 'build/drone_racer/drone_racer.egg-info/SOURCES.txt'
+[0.909s] writing manifest file 'build/drone_racer/drone_racer.egg-info/SOURCES.txt'
+[0.909s] running build
+[0.909s] running build_py
+[0.909s] creating /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/build
+[0.910s] creating /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/build/lib
+[0.910s] creating /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/build/lib/drone_racer
+[0.910s] copying drone_racer/perception_node.py -> /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/build/lib/drone_racer
+[0.910s] copying drone_racer/__init__.py -> /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/build/lib/drone_racer
+[0.910s] running install
+[0.910s] running install_lib
+[0.911s] creating /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/lib/python3.8/site-packages/drone_racer
+[0.911s] copying /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/build/lib/drone_racer/perception_node.py -> /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/lib/python3.8/site-packages/drone_racer
+[0.912s] copying /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/build/lib/drone_racer/__init__.py -> /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/lib/python3.8/site-packages/drone_racer
+[0.912s] byte-compiling /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/lib/python3.8/site-packages/drone_racer/perception_node.py to perception_node.cpython-38.pyc
+[0.913s] byte-compiling /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/lib/python3.8/site-packages/drone_racer/__init__.py to __init__.cpython-38.pyc
+[0.914s] running install_data
+[0.914s] creating /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/share/ament_index
+[0.914s] creating /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/share/ament_index/resource_index
+[0.914s] creating /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/share/ament_index/resource_index/packages
+[0.914s] copying resource/drone_racer -> /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/share/ament_index/resource_index/packages
+[0.914s] copying package.xml -> /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/share/drone_racer
+[0.914s] running install_egg_info
+[0.916s] Copying build/drone_racer/drone_racer.egg-info to /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/lib/python3.8/site-packages/drone_racer-0.0.0-py3.8.egg-info
+[0.916s] running install_scripts
+[0.932s] writing list of installed files to '/home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/install.log'
+[0.950s] Invoked command in '/home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer' returned '0': PYTHONPATH=/home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/install/drone_racer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/drone_racer build --build-base /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/build install --record /home/sh0w0ff/drone_racing_ros2_ws/src/drone_racer/build/drone_racer/install.log --single-version-externally-managed install_data
